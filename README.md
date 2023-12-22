@@ -4,7 +4,7 @@
 
 <h2>👋 Bem-vindo(a)</h2>
 
-Olá, meu nome é Márcio Felipe, tenho 24 anos e estou dando os primeiros passos no fascinante mundo da programação de software, focando principalmente em JavaScript, HTML5 e CSS3. Tenho o objetivo de me tornar um desenvolvedor fullstack no futuro, com a capacidade de criar aplicações desde o início, garantindo que sejam livres de bugs e extremamente confiáveis. Estou ansioso para aprender e evoluir nessa jornada!
+Olá, meu nome é Márcio Felipe, tenho 24 anos e estou dando os primeiros passos no mundo da programação de software, focando principalmente em JavaScript, HTML5 e CSS3. Tenho o objetivo de me tornar um desenvolvedor fullstack no futuro, com a capacidade de criar aplicações desde o início, garantindo que sejam livres de bugs e extremamente confiáveis. Estou ansioso para aprender e evoluir nessa jornada!
 
 &nbsp;
 
